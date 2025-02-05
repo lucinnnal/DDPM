@@ -1,1 +1,3 @@
 env1/
+env1/
+**/torch/lib/*.dylib
