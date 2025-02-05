@@ -18,3 +18,5 @@ Move all the packages that have been installed in V.E to requirements.txt
 
 Select certain package installed in V.E and move to requirements.txt
 1. pip freeze | grep 'torchvision' > requirements.txt
+conda deactivate -> base 환경을 비활성화
+deactivate -> 가상환경 비활성화
