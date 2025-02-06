@@ -6,8 +6,9 @@ How to Create Virtual Environment?
 Commands
 1. python3 -m venv "environmnet name" (create)
 2. source "environmnet name"/bin/activate (activate)
-3. conda deactivate (deactivate)
-4. pip list (installed packages in virtual environment)
+3. conda deactivate (deactivate) -> base deactivate
+4. virtaul environment deactivate -> deactivate
+5. pip list (installed packages in virtual environment)
 
 Requirments download in V.E
 1. pip install -r requirements.txt
